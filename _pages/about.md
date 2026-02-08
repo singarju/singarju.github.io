@@ -9,14 +9,14 @@ redirect_from:
 
 ## About Me
 
-I'm a Master's student in Computer Science at Indiana University Bloomington and a software engineer with 2+ years of professional experience building scalable, efficient, and secure software systems. My expertise spans full-stack development, cloud computing with AWS, and Machine Learning/NLP applications.
+I'm a Master's student in Computer Science at Indiana University Bloomington graduating in May 2026 and a software engineer with 2+ years of professional experience building scalable, efficient, and secure software systems. My expertise spans Machine Learning/NLP applications, full-stack development and cloud computing with AWS.
 
 ## What I Do
 
 I'm passionate about:
+- **Machine Learning & AI**: Large Language Models (LLMs), NLP techniques, MLOps, and generative AI applications
 - **Full-Stack Development**: TypeScript, React, Python, Node.js, and modern web frameworks
 - **Cloud Computing**: AWS (Lambda, S3, SQS, DynamoDB), serverless architectures, and infrastructure automation
-- **Machine Learning & AI**: Large Language Models (LLMs), NLP techniques, MLOps, and generative AI applications
 - **System Design**: Architecting scalable solutions with focus on performance optimization and cost efficiency
 - **Software Engineering Excellence**: CI/CD pipelines, containerization, testing, and best practices
 
