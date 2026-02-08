@@ -1,0 +1,350 @@
+{
+  "basics": {
+    "name": "Arju Singh",
+    "email": "singharjuoffi@gmail.com",
+    "phone": "+1 930 333 7511",
+    "website": "https://singarju.github.io",
+    "summary": "Master's student and Software Engineer with 2+ years of professional experience in full-stack development, cloud computing (AWS), and applying Machine Learning/NLP, focused on building scalable, efficient, and secure software systems. Proven ability to optimize system performance, reduce costs, and deliver impactful features from ideation to deployment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bloomington",
+      "countryCode": "US",
+      "region": "Indiana"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "singarju",
+        "url": "https://github.com/singarju"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "arjusingh",
+        "url": "https://linkedin.com/in/arjusingh"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pervaziv AI",
+      "position": "Software Developer Intern",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-31",
+      "summary": "Fortified application security and expanded authentication capabilities",
+      "highlights": [
+        "Fortified application security by 80% with OWASP guidance, restrictive cookie policies, JWE-encrypted JWT tokens, and passwordless sign-in mechanisms in TypeScript",
+        "Increased library adoption by 20+ companies and operational versatility by engineering a fully runtime- and database-agnostic core, enabling deployment on any framework, platform, and JavaScript runtime",
+        "Provided users with modern and 6+ sign-in options by supporting standard Web APIs, OAuth 2.0+, OpenID Connect, and popular providers by integrating Passkeys/WebAuthn and email/passwordless authentication capabilities",
+        "Guaranteed user data sovereignty and architectural flexibility by designing a database-agnostic library supporting multiple database systems (MySQL, Postgres, MongoDB)"
+      ]
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "position": "Software Developer",
+      "startDate": "2023-02-01",
+      "endDate": "2024-07-31",
+      "summary": "Engineered vehicle systems and optimized performance",
+      "highlights": [
+        "Engineered an in-house SOS button application using C++, reducing emergency response time in accidents from 60 to 5 seconds",
+        "Developed 8+ features triggered by mobile applications to enable users to remotely precondition vehicles, by establishing connection with offboard server and car by Protobuf",
+        "Improved EV scalability and reduced CO2 emissions by 55,000 tonnes by resolving bottlenecks in legacy features",
+        "Optimized communication time between onboard and offboard server code by 85% using null checks, early returns, and default values for enhanced user experience",
+        "Reduced operational costs by £9 million by designing and developing in-house applications for remote vehicle features from scratch"
+      ]
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "position": "Frontend Developer",
+      "startDate": "2022-08-01",
+      "endDate": "2023-01-31",
+      "summary": "Developed scalable web and mobile e-commerce applications",
+      "highlights": [
+        "Delivered scalable web and mobile e-commerce applications using React Native, Flutter, and JavaScript, supporting distributed backend services handling 1,000 concurrent users"
+      ]
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "position": "Software Developer Intern",
+      "startDate": "2022-01-01",
+      "endDate": "2022-07-31",
+      "summary": "Executed CI/CD and containerization efforts",
+      "highlights": [
+        "Executed CI/CD and containerization efforts for distributed services and internal platforms",
+        "Authored Docker and pipeline documentation that became a standard onboarding reference across 25 teams"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University Bloomington",
+      "area": "Master of Science in Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024-08-01",
+      "endDate": "2026-05-31",
+      "gpa": null,
+      "courses": [
+        "Algorithms",
+        "Artificial Intelligence (NLP, LLM)",
+        "Computer Networks (TCP/UDP)",
+        "Cloud Computing",
+        "Computer Vision (CNN, Deep Learning)",
+        "Project Management",
+        "Software Engineering (MLOps, CI/CD pipeline development)",
+        "Machine Learning"
+      ]
+    },
+    {
+      "institution": "Techno Main Salt Lake",
+      "area": "Bachelor of Engineering in Information Technology",
+      "studyType": "B.E.",
+      "startDate": "2018-08-01",
+      "endDate": "2022-07-31",
+      "gpa": null,
+      "courses": [
+        "Mathematics",
+        "Distributed Systems",
+        "Data Structures",
+        "Algorithms",
+        "Statistics",
+        "Object Oriented Programming"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Frameworks",
+      "level": "Expert",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "React",
+        "SQL (PostgreSQL, MySQL)",
+        "TypeScript",
+        "HTML5/CSS3",
+        "LangChain",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "level": "Advanced",
+      "keywords": [
+        "MCP",
+        "Large Language Models (LLMs)",
+        "TensorFlow",
+        "PyTorch",
+        "Generative AI",
+        "NLP Techniques",
+        "MLOps"
+      ]
+    },
+    {
+      "name": "AI-Assisted Coding Frameworks",
+      "level": "Advanced",
+      "keywords": [
+        "Cursor",
+        "Copilot",
+        "OpenAI",
+        "Codeium",
+        "Claude"
+      ]
+    },
+    {
+      "name": "Data Visualization Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "Tableau",
+        "Power BI",
+        "Studio",
+        "Google Data Studio"
+      ]
+    },
+    {
+      "name": "Cloud Platforms & ETL Tools",
+      "level": "Advanced",
+      "keywords": [
+        "AWS (Lambda, S3, SQS, DynamoDB)",
+        "Datadog",
+        "Terraform",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Core Skills",
+      "level": "Expert",
+      "keywords": [
+        "SDLC",
+        "Agile",
+        "Scrum",
+        "TDD",
+        "System Design",
+        "Automation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Full-Stack Development"
+    },
+    {
+      "name": "Cloud Computing & Serverless Architecture"
+    },
+    {
+      "name": "Machine Learning & NLP"
+    },
+    {
+      "name": "System Design & Performance Optimization"
+    },
+    {
+      "name": "Open Source Development"
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "AWS Cloud Cost Optimization Chatbot",
+      "description": "Engineered a serverless NLP chatbot combining Amazon Lex, Lambda, and SageMaker to analyze AWS usage and recommend cost optimizations, delivered under a $5 total spend.",
+      "highlights": [
+        "Improved ML driven EC2 rightsizing outcomes by managing an SQS to Step Functions pipeline, triggering training and inference workflows",
+        "Reduced AWS spend by 20 percent by connecting CloudWatch and Cost Explorer data to DynamoDB for automated cost analytics and live insights"
+      ],
+      "keywords": [
+        "AWS Lambda",
+        "Amazon Lex",
+        "SageMaker",
+        "SQS",
+        "NLP",
+        "DynamoDB"
+      ],
+      "startDate": "2024",
+      "endDate": "2024",
+      "entity": "Personal Project",
+      "type": "research"
+    },
+    {
+      "name": "Crimson Compass",
+      "description": "Designed and implemented scalable backend services and APIs supporting bookings, payments, and real-time data flows. Handling 100k+ monthly requests with 99.9% uptime.",
+      "highlights": [
+        "Implemented OAuth 2.0 login with Google/Facebook for secure, seamless authentication and 70% faster onboarding",
+        "Deployed production services with CI/CD pipelines, supporting fast experimentation and feature iteration"
+      ],
+      "keywords": [
+        "JavaScript",
+        "React.js",
+        "PostgreSQL",
+        "Next.js",
+        "Spring Boot",
+        "MongoDB",
+        "MySQL",
+        "Airflow",
+        "Docker",
+        "Terraform",
+        "OOAD"
+      ],
+      "startDate": "2024",
+      "endDate": "2025",
+      "entity": "Personal Project",
+      "type": "research"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "https://singarju.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 2",
+      "publisher": "Journal 1",
+      "releaseDate": "2010-10-01",
+      "website": "https://singarju.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 3",
+      "publisher": "Journal 1",
+      "releaseDate": "2015-10-01",
+      "website": "https://singarju.github.io/files/paper3.pdf",
+      "summary": "This paper is about the number 3. The number 4 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 4",
+      "publisher": "GitHub Journal of Bugs",
+      "releaseDate": "2024-02-17",
+      "website": "https://singarju.github.io/files/paper4.pdf",
+      "summary": "This paper is about fixing template issue #693."
+    },
+    {
+      "name": "Paper Title Number 5",
+      "publisher": "Research Journal",
+      "releaseDate": "2025-06-08",
+      "website": "https://singarju.github.io/files/paper5.pdf",
+      "summary": "Latest research paper in progress."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Tutorial 1 on Relevant Topic in Your Field",
+      "event": "UC-Berkeley Institute for Testing Science",
+      "date": "2013-03-01",
+      "location": "Berkeley, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Talk 2 on Relevant Topic in Your Field",
+      "event": "London School of Testing",
+      "date": "2014-02-01",
+      "location": "London, UK",
+      "description": ""
+    },
+    {
+      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
+      "event": "Testing Institute of America 2014 Annual Conference",
+      "date": "2014-03-01",
+      "location": "Los Angeles, CA, USA",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Teaching experience 2",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
+      "description": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    }
+  ]
+}
